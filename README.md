@@ -14,3 +14,6 @@ download chromedriver for your chrome version
 DOWNLOAD_LOCATION=H:\tmp_downloads
 CHROME_DRIVER=H:\chrome\chromedriver.exe
 
+## Test code
+run the ua_scraper.py file
+
